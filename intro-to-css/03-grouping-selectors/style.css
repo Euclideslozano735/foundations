@@ -1,1 +1,25 @@
-/* Add CSS Styling */
+body {
+  background-color: #2a2a40;
+}
+#container-button {
+  background-color: whitesmoke;
+  width: 70%;
+}
+
+.button {
+  font-size: 28px;
+  font-family:
+    Helvetica,
+    Times New Roman,
+    "sans-serif";
+  margin: 5px;
+}
+
+#first-button {
+  background-color: black;
+  color: white;
+}
+
+#second-button {
+  background-color: yellow;
+}
