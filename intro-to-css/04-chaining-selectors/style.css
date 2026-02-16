@@ -1,13 +1,13 @@
-body {
-  background-color: #2a2a40;
+.avatar.distorted{
+    width: 200px;
+    height: 400px;
 }
 
-.avatar.proportioned {
-  width: 300px;
-  height: auto;
+.avatar.proportioned{
+    width: 300px;
+    height: auto;
 }
 
-.avatar.distorted {
-  width: 200px;
-  height: 400px;
-}
+
+
+
