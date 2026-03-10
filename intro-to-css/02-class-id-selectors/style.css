@@ -1,19 +1,20 @@
-.odd {
-  background-color: #ffa7a7;
-  font-family: Verdana, "Dejavu Sans", sans-serif;
+.odd{
+    background-color: lightpink;
+    font-family: 'Verdana', 'Dejavu', 'Sans', 'sans-serif';
 }
 
-#number-two {
-  font-size: 36px;
-  color: blue;
+.three{
+    font-size: 24px;
 }
 
-.cooler {
-  font-size: 24px;
+#two{
+    color: blue;
+    font-size: 36px;
 }
 
-#number-four {
-  background-color: #80ff80;
-  font-size: 24px;
-  font-weight: bold;
+#four{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+
 }

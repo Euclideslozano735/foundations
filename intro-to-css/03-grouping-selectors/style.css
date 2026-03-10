@@ -1,25 +1,13 @@
-body {
-  background-color: #2a2a40;
-}
-#container-button {
-  background-color: whitesmoke;
-  width: 70%;
+.clickme, .no-clickme{
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
 }
 
-.button {
-  font-size: 28px;
-  font-family:
-    Helvetica,
-    Times New Roman,
-    "sans-serif";
-  margin: 5px;
+.clickme{
+    background-color: black;
+    color: white;
 }
 
-#first-button {
-  background-color: black;
-  color: white;
-}
-
-#second-button {
-  background-color: yellow;
+.no-clickme{
+    background-color: yellow;
 }
